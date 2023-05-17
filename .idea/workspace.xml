@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3890dc6-7ada-4a35-b232-cede08f1be66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/shivaniJoshi_Mtech_BDA-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/shivaniJoshi_Mtech_BDA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Aggregate.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CaesarCipher.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CaseClass.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ReportCard.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Second.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StudentMarks.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StudentPassFail.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StudentScholarship.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/SumMulList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/TableDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/TopScorers.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/array.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/evenAddition.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/evenOdd.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/fibonacci.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/forLoop.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/fourth.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/homeSalaryH.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lastelementL.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/mappp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/mergesort.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/multiarray.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/negM.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/oneToN.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/primeN.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/primeNSeq.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/profitCalculate.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/queue.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/quicksort.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/sets.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/stack.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/studentMarks2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/studentsMarks3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/temp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/third.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/volumeOfSphere.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/wholesale.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/scala_class/a1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/scala_class/areaCircle.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/scala_class/currying_fun.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/scala_class/input.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/scala_class/loop_first.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/scala_class/mark_sheet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/scala_class/non_para.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1935ecbd-6b29-4eee-a789-1916a0895cc9" />
+        <option name="url" value="https://github.com/assign-stone/shivaniJoshi_Mtech_BDA.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/scala/scala_class/currying_fun.scala" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2LbTzqzD7fO3yK97QwXnrKbwYxN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TableDemo">
+    <configuration name="Second" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Second" />
+      <module name="shivaniJoshi_Mtech_BDA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TableDemo" />
+      <module name="shivaniJoshi_Mtech_BDA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lastelementL" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lastelementL" />
+      <module name="shivaniJoshi_Mtech_BDA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="negM" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="negM" />
+      <module name="shivaniJoshi_Mtech_BDA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="third" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="third" />
+      <module name="shivaniJoshi_Mtech_BDA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TableDemo" />
+        <item itemvalue="Application.lastelementL" />
+        <item itemvalue="Application.third" />
+        <item itemvalue="Application.negM" />
+        <item itemvalue="Application.Second" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3890dc6-7ada-4a35-b232-cede08f1be66" name="Changes" comment="" />
+      <created>1676139059212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676139059212</updated>
+    </task>
+    <servers />
+  </component>
+</project>
